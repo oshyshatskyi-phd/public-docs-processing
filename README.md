@@ -85,7 +85,16 @@ python3 ../extract_with_model.py ../results_for_evaluation/ --model gemini_gemin
 
 ## Running Evaluation with Model
 
+To evaluate the extraction results, use the `evaluate_extraction.py` script. This script compares the model's `.json` outputs with human-annotated `.json` files for each `.txt` file, calculates precision, recall, and F1 metrics for each field, and estimates the cost of model usage based on token counts.
 
+Example usage:
+
+```sh
+python3 ../evaluate_extraction.py ../results_for_evaluation/ --model gemini_gemini-2.5-flash-preview-05-20
+```
+
+- The `--model` parameter should match the model name used in the output `.json` and `_usage.json` files.
+- The script will print evaluation metrics and cost analysis, and save results as CSV files.
 
 ## Creating Source Data for Visualization
 
