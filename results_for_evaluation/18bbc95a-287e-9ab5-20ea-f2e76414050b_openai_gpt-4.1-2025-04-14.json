@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "6820682569:01:004:0103",
+    "area": 0.178,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "6820682500:01:005:0090",
+    "area": 0.3299,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  }
+]

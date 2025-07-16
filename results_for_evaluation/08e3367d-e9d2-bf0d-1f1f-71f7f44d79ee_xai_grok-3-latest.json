@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5324083700:00:007:0037",
+    "area": 1.5806,
+    "area_unit": "ha",
+    "purpose_code": "01.03",
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

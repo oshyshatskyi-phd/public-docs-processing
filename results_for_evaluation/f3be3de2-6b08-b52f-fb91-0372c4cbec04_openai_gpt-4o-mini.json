@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "URBAN_PLANNING_DOCUMENTATION",
+    "involved_parcels": []
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "OTHER_DOCUMENTATION",
+    "involved_parcels": []
+  }
+]

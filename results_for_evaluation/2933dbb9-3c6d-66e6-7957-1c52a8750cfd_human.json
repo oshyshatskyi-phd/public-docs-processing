@@ -1,0 +1,28 @@
+[
+  {
+    "number": "6820685000:08:004:0140",
+    "area": 27.0,
+    "area_unit": "ha",
+    "purpose_code": "18.00",
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  },
+  {
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 1,
+    "type": "documentation"
+  }
+]

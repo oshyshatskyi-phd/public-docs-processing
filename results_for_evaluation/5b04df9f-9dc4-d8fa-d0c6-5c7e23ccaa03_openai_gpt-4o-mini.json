@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5621685200:08:017:1",
+    "area": 0.2,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

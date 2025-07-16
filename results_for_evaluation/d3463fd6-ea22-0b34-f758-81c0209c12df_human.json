@@ -1,0 +1,20 @@
+[
+  {
+    "number": null,
+    "area": 0.7837,
+    "area_unit": "ha",
+    "purpose_code": "01.03",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "OTHER_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

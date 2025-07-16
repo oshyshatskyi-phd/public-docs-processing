@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0720885400:00:001:0755",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": "14.02",
+    "category": null,
+    "ownership": null
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "0720885400:00:001:0786",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": "14.02",
+    "category": null,
+    "ownership": null
+  }
+]

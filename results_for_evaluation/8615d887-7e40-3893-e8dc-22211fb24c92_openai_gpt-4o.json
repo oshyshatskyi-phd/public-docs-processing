@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5624680700:05:013:0003",
+    "area": 0.9171,
+    "area_unit": "ha",
+    "purpose_code": "03.07",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "OTHER_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

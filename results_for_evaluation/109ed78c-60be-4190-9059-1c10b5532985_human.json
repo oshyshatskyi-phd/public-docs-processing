@@ -1,0 +1,20 @@
+[
+  {
+    "number": "0521255400:02:000:0384",
+    "area": 1.0,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі рекреаційного призначення",
+    "ownership": null,
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

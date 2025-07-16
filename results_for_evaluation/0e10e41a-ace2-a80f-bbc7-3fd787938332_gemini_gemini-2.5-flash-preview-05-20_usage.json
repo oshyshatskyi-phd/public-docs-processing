@@ -1,0 +1,20 @@
+{
+  "gemini/gemini-2.5-flash-preview-05-20": {
+    "completion_tokens": 1181,
+    "prompt_tokens": 4366,
+    "total_tokens": 5547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 637,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": 544
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "text_tokens": 4366,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": null,
+    "area": 0.12,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

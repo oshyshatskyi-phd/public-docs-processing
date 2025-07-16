@@ -1,0 +1,20 @@
+[
+  {
+    "number": "3221984503:02:003:0019",
+    "area": 1.5,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Приватна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

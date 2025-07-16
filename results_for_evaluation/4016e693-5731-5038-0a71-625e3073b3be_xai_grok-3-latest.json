@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5624689800:09:038:0076",
+    "area": 0.7,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

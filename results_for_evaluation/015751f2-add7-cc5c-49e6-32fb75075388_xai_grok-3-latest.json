@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "6825855000:01:007:0005",
+    "area": 0.3071,
+    "area_unit": "ha",
+    "purpose_code": "03.07",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

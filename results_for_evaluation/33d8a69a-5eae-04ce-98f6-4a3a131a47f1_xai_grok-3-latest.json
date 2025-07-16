@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "7125155100:02:000:2664",
+    "area": 0.0913,
+    "area_unit": "ha",
+    "purpose_code": "02.01",
+    "category": null,
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

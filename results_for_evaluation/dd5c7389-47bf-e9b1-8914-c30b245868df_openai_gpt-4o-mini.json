@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "4620980700:25:000:0001",
+    "area": 45.2902,
+    "area_unit": "ha",
+    "purpose_code": "01.01",
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_USE_AND_JUSTIFICATION_SCHEME",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "WORKING_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

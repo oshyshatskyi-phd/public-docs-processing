@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": null,
+    "area": 0.14,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": null,
+    "area": 0.4,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "1820955100:03:000:8125",
+    "area": 11.1794,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      2
+    ]
+  }
+]

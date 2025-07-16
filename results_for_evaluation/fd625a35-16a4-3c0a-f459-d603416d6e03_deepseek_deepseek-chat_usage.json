@@ -1,0 +1,16 @@
+{
+  "deepseek/deepseek-chat": {
+    "completion_tokens": 169,
+    "prompt_tokens": 13662,
+    "total_tokens": 13831,
+    "completion_tokens_details": 0,
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 12800,
+      "text_tokens": 0,
+      "image_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 12800,
+    "prompt_cache_miss_tokens": 862
+  }
+}

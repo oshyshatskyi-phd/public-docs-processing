@@ -1,0 +1,20 @@
+{
+  "openai/gpt-4o": {
+    "completion_tokens": 230,
+    "prompt_tokens": 4029,
+    "total_tokens": 4259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536,
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

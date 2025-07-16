@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "6824786000:02:003:0081",
+    "area": 0.23,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "PARTIAL_RIGHTS_BOUNDARY_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0:0:0:0",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "0:0:0:0",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  }
+]

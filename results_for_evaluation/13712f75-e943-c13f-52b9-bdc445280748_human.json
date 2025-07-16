@@ -1,0 +1,40 @@
+[
+  {
+    "number": "0523982600:01:000:0179",
+    "area": 14.3259,
+    "area_unit": "ha",
+    "purpose_code": "11.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 2.5,
+    "area_unit": "ha",
+    "purpose_code": "11.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": "Комунальна власність",
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 11.8259,
+    "area_unit": "ha",
+    "purpose_code": "11.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": "Комунальна власність",
+    "id": 2,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

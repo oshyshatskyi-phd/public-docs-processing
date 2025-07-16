@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "URBAN_PLANNING_DOCUMENTATION",
+    "involved_parcels": []
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "COMMUNITY_BOUNDARY_ESTABLISHMENT_PROJECT",
+    "involved_parcels": []
+  }
+]

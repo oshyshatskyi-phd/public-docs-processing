@@ -1,0 +1,31 @@
+[
+  {
+    "number": "0523984800:01:002:0184",
+    "area": 0.25,
+    "area_unit": "ha",
+    "purpose_code": "02.01",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": "0523984800:01:002:0186",
+    "area": 0.25,
+    "area_unit": "ha",
+    "purpose_code": "01.03",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Приватна власність",
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

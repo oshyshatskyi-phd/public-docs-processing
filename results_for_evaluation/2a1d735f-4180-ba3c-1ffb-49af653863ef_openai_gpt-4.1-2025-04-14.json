@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "1820984300:03:000:0510",
+    "area": 46.8567,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Державна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

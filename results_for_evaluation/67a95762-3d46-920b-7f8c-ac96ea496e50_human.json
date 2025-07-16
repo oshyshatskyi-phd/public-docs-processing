@@ -1,0 +1,20 @@
+[
+  {
+    "number": "5325183200:00:023:186",
+    "area": 0.461,
+    "area_unit": "ha",
+    "purpose_code": "01.07",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null,
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

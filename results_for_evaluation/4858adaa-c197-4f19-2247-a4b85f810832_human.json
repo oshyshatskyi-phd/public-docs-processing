@@ -1,0 +1,42 @@
+[
+  {
+    "number": "7122587400:03:001:1065",
+    "area": 11.2454,
+    "area_unit": "ha",
+    "purpose_code": "16.00",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.25,
+    "area_unit": "ha",
+    "purpose_code": "16.00",
+    "category": null,
+    "ownership": null,
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 10.9954,
+    "area_unit": "ha",
+    "purpose_code": "16.00",
+    "category": null,
+    "ownership": null,
+    "id": 2,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1,
+      2
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

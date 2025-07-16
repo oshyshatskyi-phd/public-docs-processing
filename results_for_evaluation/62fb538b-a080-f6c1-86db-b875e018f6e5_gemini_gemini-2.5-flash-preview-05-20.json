@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": null,
+    "area": 12.3979,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "CROP_ROTATION_AND_LAND_USE_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

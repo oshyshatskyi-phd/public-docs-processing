@@ -1,0 +1,64 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "6820380500:05:004:0002",
+    "area": 17.1891,
+    "area_unit": "ha",
+    "purpose_code": "01.19",
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "6820380500:05:004:0001",
+    "area": 11.4964,
+    "area_unit": "ha",
+    "purpose_code": "01.19",
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "6820380500:05:006:0007",
+    "area": 5.1252,
+    "area_unit": "ha",
+    "purpose_code": "01.19",
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 3,
+    "type": "parcel",
+    "number": "6820380500:05:006:0006",
+    "area": 1.4497,
+    "area_unit": "ha",
+    "purpose_code": "01.19",
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 4,
+    "type": "parcel",
+    "number": "6820380500:05:006:0008",
+    "area": 7.314,
+    "area_unit": "ha",
+    "purpose_code": "01.19",
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

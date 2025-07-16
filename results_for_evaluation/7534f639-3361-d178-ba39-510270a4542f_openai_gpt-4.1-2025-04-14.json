@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "7122585300:04:001:0565",
+    "area": 0.8,
+    "area_unit": "ha",
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "7122585300:04:001:0353",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "7122581000:03:001:0027",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 3,
+    "type": "parcel",
+    "number": "7122581000:01:005:0002",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 4,
+    "type": "parcel",
+    "number": null,
+    "area": 15.0,
+    "area_unit": "ha",
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 5,
+    "type": "parcel",
+    "number": "7122510100:16:002:0076",
+    "area": 6.7,
+    "area_unit": "ha",
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 6,
+    "type": "parcel",
+    "number": "7122510100:23:004:0006",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": "01.01",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

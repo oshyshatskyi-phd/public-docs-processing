@@ -1,0 +1,31 @@
+[
+  {
+    "number": "0521684400:02:003:0006",
+    "area": 0.25,
+    "area_unit": "ha",
+    "purpose_code": "02.01",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": "0521684400:02:003:0008",
+    "area": 0.2,
+    "area_unit": "ha",
+    "purpose_code": "01.03",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Приватна власність",
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

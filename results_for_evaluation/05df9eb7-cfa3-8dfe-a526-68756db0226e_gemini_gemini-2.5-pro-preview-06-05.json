@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "3524085600:51:000:170",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

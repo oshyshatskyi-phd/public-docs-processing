@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0523982200:02:002:0344",
+    "area": 16.5363,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

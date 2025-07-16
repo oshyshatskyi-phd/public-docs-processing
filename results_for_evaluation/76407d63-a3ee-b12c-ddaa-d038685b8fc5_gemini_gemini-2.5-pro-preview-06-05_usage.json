@@ -1,0 +1,20 @@
+{
+  "gemini/gemini-2.5-pro-preview-06-05": {
+    "completion_tokens": 2913,
+    "prompt_tokens": 14821,
+    "total_tokens": 17734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2333,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": 580
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 7877,
+      "text_tokens": 14821,
+      "image_tokens": 0
+    }
+  }
+}

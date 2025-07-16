@@ -1,0 +1,20 @@
+[
+  {
+    "number": "6825283000:03:001:0123",
+    "area": 1.4065,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null,
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

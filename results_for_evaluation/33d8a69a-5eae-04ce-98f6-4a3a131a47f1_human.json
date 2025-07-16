@@ -1,0 +1,20 @@
+[
+  {
+    "number": "7125155100:02:000:2664",
+    "area": 0.0913,
+    "area_unit": "ha",
+    "purpose_code": "02.01",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

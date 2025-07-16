@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "7425582800:08:000:7020",
+    "area": null,
+    "area_unit": null,
+    "purpose_code": null,
+    "category": null,
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "CROP_ROTATION_AND_LAND_USE_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

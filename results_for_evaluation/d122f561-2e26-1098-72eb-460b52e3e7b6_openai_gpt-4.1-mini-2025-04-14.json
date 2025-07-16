@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "2611000000:05:011:0231",
+    "area": 0.0654,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": null,
+    "area": 0.0555,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "2611000000:05:007:0333",
+    "area": 0.1836,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      2
+    ]
+  }
+]

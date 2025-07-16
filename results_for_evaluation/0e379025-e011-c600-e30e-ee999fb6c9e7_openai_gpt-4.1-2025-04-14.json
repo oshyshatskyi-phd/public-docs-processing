@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0720885400:00:001:0755",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": "14.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "0720885400:00:001:0786",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": "14.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "0720885400:00:001:0756",
+    "area": 0.0003,
+    "area_unit": "ha",
+    "purpose_code": "14.02",
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "OTHER_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  }
+]

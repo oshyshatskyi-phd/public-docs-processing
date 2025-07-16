@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0721884000:01:001:0026",
+    "area": 0.0183,
+    "area_unit": "ha",
+    "purpose_code": "03.07",
+    "category": "Землі житлової та громадської забудови",
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "URBAN_PLANNING_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

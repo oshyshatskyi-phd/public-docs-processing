@@ -1,0 +1,119 @@
+[
+  {
+    "number": "2611091501:23:001:0001",
+    "area": 7.078,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.6329,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.7437,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 2,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.7383,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 3,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.7005,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 4,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.6904,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 5,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.6428,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 6,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 1.0727,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 7,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.7316,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 8,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.7463,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 9,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

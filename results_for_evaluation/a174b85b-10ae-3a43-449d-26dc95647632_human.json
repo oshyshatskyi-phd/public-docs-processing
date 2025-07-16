@@ -1,0 +1,85 @@
+[
+  {
+    "number": "5621455300:01:000:1051",
+    "area": 0.3659,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.2625,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.0189,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 2,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.0093,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 3,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.034,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 4,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.0386,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 5,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 0.0026,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null,
+    "id": 6,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      6,
+      1,
+      2,
+      3,
+      4,
+      "bb2645f27be546e7a01341b55058eb75"
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

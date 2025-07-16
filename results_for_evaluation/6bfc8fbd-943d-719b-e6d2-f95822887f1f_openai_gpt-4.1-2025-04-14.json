@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "6825084800:03:013:0012",
+    "area": 8.835,
+    "area_unit": "ha",
+    "purpose_code": "01.17",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Державна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "6825084800:03:013:0016",
+    "area": 10.9653,
+    "area_unit": "ha",
+    "purpose_code": "01.17",
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": "Державна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "URBAN_PLANNING_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "7122580500:02:001:0106",
+    "area": 6.0841,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "7122580500:02:001:0116",
+    "area": 0.95,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "7122580500:02:001:0115",
+    "area": 5.1341,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Комунальна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1,
+      2
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "number": null,
+    "area": 11.6209,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null,
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "number": null,
+    "area": 1.3,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null,
+    "id": 1,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

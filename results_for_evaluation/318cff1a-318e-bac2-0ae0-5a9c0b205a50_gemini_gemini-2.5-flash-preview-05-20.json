@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": null,
+    "area": 0.8955,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі промисловості, транспорту, зв'язку, енергетики, оборони та іншого призначення",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "OTHER_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

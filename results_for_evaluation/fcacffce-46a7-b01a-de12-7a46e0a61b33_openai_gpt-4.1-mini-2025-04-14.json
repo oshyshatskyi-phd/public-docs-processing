@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": null,
+    "area": null,
+    "area_unit": null,
+    "purpose_code": null,
+    "category": null,
+    "ownership": null
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": null,
+    "area": null,
+    "area_unit": null,
+    "purpose_code": null,
+    "category": null,
+    "ownership": null
+  }
+]

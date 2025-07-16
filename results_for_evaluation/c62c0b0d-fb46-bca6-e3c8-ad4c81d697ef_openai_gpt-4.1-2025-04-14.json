@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0523982200:01:000:0309",
+    "area": 2.7,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "0523982200:01:000:0310",
+    "area": 0.3,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "0523982200:04:0020:0248",
+    "area": 2.6032,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 3,
+    "type": "parcel",
+    "number": "0523982200:04:002:0249",
+    "area": 3.5,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 4,
+    "type": "parcel",
+    "number": null,
+    "area": 0.9,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": "Землі сільськогосподарського призначення",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      4
+    ]
+  }
+]

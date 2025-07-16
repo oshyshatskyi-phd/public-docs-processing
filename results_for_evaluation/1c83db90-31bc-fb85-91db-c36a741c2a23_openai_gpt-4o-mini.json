@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5621682600:04:001:0025",
+    "area": 0.1422,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "5621682600:04:001:0026",
+    "area": 0.299,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 2,
+    "type": "parcel",
+    "number": "5621682600:03:005:0126",
+    "area": 0.7582,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0,
+      1,
+      2
+    ]
+  }
+]

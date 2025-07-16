@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "URBAN_PLANNING_DOCUMENTATION",
+    "involved_parcels": []
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": []
+  },
+  {
+    "id": 2,
+    "type": "documentation",
+    "documentation_type": "COMMUNITY_BOUNDARY_ESTABLISHMENT_PROJECT",
+    "involved_parcels": []
+  },
+  {
+    "id": 3,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": []
+  },
+  {
+    "id": 4,
+    "type": "documentation",
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": []
+  },
+  {
+    "id": 5,
+    "type": "documentation",
+    "documentation_type": "PLOT_DIVISION_AND_MERGE_DOCUMENTATION",
+    "involved_parcels": []
+  }
+]

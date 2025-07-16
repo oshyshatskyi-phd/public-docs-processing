@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "5325155100:00:029:0010",
+    "area": 2.402,
+    "area_unit": "ha",
+    "purpose_code": "10.07",
+    "category": "Землі водного фонду",
+    "ownership": null
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "LAND_INVENTORY_DOCUMENTATION",
+    "involved_parcels": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "documentation",
+    "documentation_type": "WORKING_PROJECT",
+    "involved_parcels": [
+      0
+    ]
+  }
+]

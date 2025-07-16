@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "type": "parcel",
+    "number": "0521684400:02:003:0013",
+    "area": 0.25,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 1,
+    "type": "parcel",
+    "number": "0521684400:02:003:0011",
+    "area": 0.3,
+    "area_unit": "ha",
+    "purpose_code": null,
+    "category": null,
+    "ownership": "Приватна власність"
+  },
+  {
+    "id": 0,
+    "type": "documentation",
+    "documentation_type": "BOUNDARY_ESTABLISHMENT_DOCUMENTATION",
+    "involved_parcels": [
+      0,
+      1
+    ]
+  }
+]

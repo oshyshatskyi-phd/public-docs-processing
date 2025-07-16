@@ -1,0 +1,20 @@
+[
+  {
+    "number": "6822489100:12:016:0214",
+    "area": 1.198,
+    "area_unit": "ha",
+    "purpose_code": "16.00",
+    "category": null,
+    "ownership": "Комунальна власність",
+    "id": 0,
+    "type": "parcel"
+  },
+  {
+    "documentation_type": "LAND_PLOT_ALLOCATION_PROJECT",
+    "involved_parcels": [
+      0
+    ],
+    "id": 0,
+    "type": "documentation"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "xai/grok-3-mini-beta": {
+    "completion_tokens": 384,
+    "prompt_tokens": 7506,
+    "total_tokens": 10503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2613,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 5714,
+      "text_tokens": 7506,
+      "image_tokens": 0
+    },
+    "num_sources_used": 0
+  }
+}
