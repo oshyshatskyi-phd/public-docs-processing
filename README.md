@@ -4,19 +4,28 @@
 
 - **results_for_evaluation/**
   - Contains the original `.txt` files. Each file represents a source document to be processed and evaluated. These are the primary data inputs for extraction and evaluation workflows.
+  - For each `.txt` file, there may be:
+    - A human-annotated `.json` file (e.g., `file_human.json`)
+    - Model extraction `.json` files (e.g., `file_{model}.json`)
+    - Model usage files (e.g., `file_{model}_usage.json`)
+
+- **visualization_results/**
+  - Contains CSV files and images generated from evaluation results for further analysis and visualization.
+
+---
 
 ## Running Extraction with Model
 
-To extract information from the source `.txt` files, use the `extract_with_model` script. This script reads each `.txt` file in the specified directory and produces corresponding `.json` files containing the extraction results. Additionally, for each extraction, a `_usage.json` file is generated to record the model's token usage statistics.
+To extract information from the source `.txt` files, use the `extract_with_model.py` script. This script reads each `.txt` file in the specified directory and produces corresponding `.json` files containing the extraction results. Additionally, for each extraction, a `_usage.json` file is generated to record the model's token usage statistics.
 
-Example usage:
+**Example usage:**
 
 ```sh
 python3 ../extract_with_model.py ../results_for_evaluation/ --model gemini_gemini-2.5-flash-preview-05-20
 ```
 
-- Input: `.txt` files in the target directory.
-- Output: `.json` files with extraction results, and `_usage.json` files with token usage details for each model run.
+- **Input:** `.txt` files in the target directory.
+- **Output:** `.json` files with extraction results, and `_usage.json` files with token usage details for each model run.
 
 ### Example Input and Output Files
 
@@ -83,40 +92,64 @@ python3 ../extract_with_model.py ../results_for_evaluation/ --model gemini_gemin
 }
 ```
 
+---
+
 ## Running Evaluation with Model
 
 To evaluate the extraction results, use the `evaluate_extraction.py` script. This script compares the model's `.json` outputs with human-annotated `.json` files for each `.txt` file, calculates precision, recall, and F1 metrics for each field, and estimates the cost of model usage based on token counts.
 
-Example usage:
+**Example usage:**
 
 ```sh
 python3 ../evaluate_extraction.py ../results_for_evaluation/ --model gemini_gemini-2.5-flash-preview-05-20
 ```
 
 - The `--model` parameter should match the model name used in the output `.json` and `_usage.json` files.
-- The script will print evaluation metrics and cost analysis, and save results as CSV files.
+- The script prints evaluation metrics and cost analysis, and saves results as CSV files.
+
+**How it works:**
+- For each `.txt` file, the script compares the model's extraction `.json` with the human-annotated `.json`.
+- It computes precision, recall, and F1 for each field (e.g., `number`, `area`, `purpose_code`, etc.).
+- It aggregates token usage and cost statistics from the `_usage.json` files.
+- Results are saved as CSVs for further analysis and visualization.
+
+---
 
 ## Creating Source Data for Visualization
 
-To prepare the data for visualization, you need to install the required Python packages and then run the appropriate script. For example:
+To prepare the data for visualization, install the required Python packages and run the evaluation script as above.
+
+**Install dependencies:**
 
 ```sh
 python3 -m pip install tqdm pandas
 ```
 
-To run the preparation with a specific model, use the `--model` parameter. The model name must match the format used in the JSON result files (e.g., `gemini_gemini-2.5-flash-preview-05-20`):
+**Run evaluation and generate visualization data:**
 
 ```sh
 python3 ../evaluate_extraction.py ../results_for_evaluation/ --model gemini_gemini-2.5-flash-preview-05-20
 ```
 
-After installing the dependencies, you can generate the source data for visualization by running:
+This will process the evaluation results and create the necessary CSV data for visualization in the `visualization_results/` folder.
 
-```sh
-python3 ../evaluate_extraction.py ../results_for_evaluation/
-```
+---
 
-This will process the evaluation results and create the necessary data for visualization.
+## Example Visualizations
+
+Below are example images generated from the evaluation results (located in `visualization_results/`). These visualizations help compare model performance and cost.
+
+**Model Comparison Heatmap (F1, Precision, Recall):**
+
+![Model Comparison Heatmap](visualization_results/model_comparison_heatmap.png)
+
+**Cost vs F1 Score:**
+
+![Cost vs F1](visualization_results/f1_vs_cost.png)
+
+**Field-level Metrics Heatmap (for a specific model):**
+
+![Metrics Heatmap](visualization_results/openai_gpt-4o/metrics_heatmap.png)
 
 ---
 
