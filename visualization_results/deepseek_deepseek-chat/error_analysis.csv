@@ -1,0 +1,9 @@
+field,true_positives,false_positives,false_negatives
+number,332,13,10
+area,318,25,19
+area_unit,331,12,11
+purpose_code,301,7,36
+category,307,21,29
+ownership,271,67,29
+parcel_references,308,63,53
+documentation_type,339,32,22
